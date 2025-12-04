@@ -1,7 +1,7 @@
-# Arsip Storage for Django
+# UMS Arsip for Django
 
-`arsip-storage` is a Django storage backend and custom `FileField`
-designed to integrate seamlessly with the **ARSIP API** used for
+`ums-arsip` is a Django storage backend and custom `FileField`
+designed to integrate seamlessly with the **ARSIP API UMS** used for
 uploading, updating, and retrieving stored files.
 
 This package provides:
