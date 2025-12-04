@@ -1,0 +1,20 @@
+[project]
+name = "ums-arsip"
+version = "1.0.0"
+description = "Custom Django Storage backend and FileField for ARSIP API integration"
+readme = "README.md"
+authors = [
+    { name="Muhammad Hammam Islami", email="mhi595@ums.ac.id" }
+]
+license = { text="MIT" }
+keywords = ["django", "storage", "filefield", "arsip"]
+
+dependencies = [
+    "django>=1.11",
+    "requests>=2.19"
+]
+
+requires-python = ">=3.5"
+
+[project.urls]
+Homepage = "https://github.com/mhi595/ums-arsip"
