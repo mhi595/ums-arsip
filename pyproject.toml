@@ -1,7 +1,7 @@
 [project]
 name = "ums-arsip"
-version = "1.0.0"
-description = "Custom Django Storage backend and FileField for ARSIP API integration"
+version = "0.1.0"
+description = "Custom Django Storage backend and FileField for UMS ARSIP API integration"
 readme = "README.md"
 authors = [
     { name="Muhammad Hammam Islami", email="mhi595@ums.ac.id" }
