@@ -1,3 +1,7 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "ums-arsip"
 version = "0.1.0"
@@ -18,3 +22,6 @@ requires-python = ">=3.5"
 
 [project.urls]
 Homepage = "https://github.com/mhi595/ums-arsip"
+
+[tool.setuptools.packages.find]
+where = ["src"]
