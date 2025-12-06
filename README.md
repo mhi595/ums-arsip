@@ -26,7 +26,7 @@ This package provides:
 ## Installation
 
 ``` bash
-pip install ums-arsip
+pip install git+https://github.com/mhi595/ums-arsip.git@v0.1.0
 ```
 
 ## Required Django Settings
